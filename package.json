@@ -1,0 +1,19 @@
+{
+  "name": "feedcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.10.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
